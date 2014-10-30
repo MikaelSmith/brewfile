@@ -32,6 +32,7 @@ install brew-file
 install boost
 install boot2docker
 install cmake
+install coreutils
 install cscope
 install docker
 install doxygen
