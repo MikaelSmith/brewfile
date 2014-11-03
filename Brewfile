@@ -26,7 +26,8 @@ tap homebrew/versions
 tap puppetlabs/private-tap
 
 ## rcmdnk/file
-install rcmdnk/file/brew-file
+tap rcmdnk/file
+install brew-file
 
 # Other Homebrew packages
 install boost
