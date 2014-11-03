@@ -3,6 +3,7 @@
 ## caskroom/cask
 tap caskroom/cask
 install brew-cask
+cask install biicode
 cask install boxcryptor-classic
 cask install clipmenu
 cask install day-o
