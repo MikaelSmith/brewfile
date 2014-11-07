@@ -31,6 +31,7 @@ tap rcmdnk/file
 install brew-file
 
 # Other Homebrew packages
+install autoconf
 install boost
 install boot2docker
 install cmake
@@ -48,7 +49,9 @@ install macvim
 install openssl
 install p7zip
 install pcre
+install pkg-config
 install rbenv
+install ruby-build
 install squid
 install the_silver_searcher
 install tree
