@@ -43,6 +43,7 @@ install gdbm
 install git
 install icu4c
 install leiningen
+install libxml2
 install libyaml
 install mackup
 install macvim
