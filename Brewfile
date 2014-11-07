@@ -11,6 +11,7 @@ cask install geektool
 cask install teamviewer
 cask install tunnelblick
 cask install vagrant
+cask install vmware-fusion
 cask install xquartz
 
 ## fnichol/dvm
@@ -41,6 +42,7 @@ install gdbm
 install git
 install icu4c
 install leiningen
+install libyaml
 install mackup
 install macvim
 install openssl
