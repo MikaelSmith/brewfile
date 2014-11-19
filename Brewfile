@@ -2,7 +2,7 @@
 
 ## caskroom/cask
 tap caskroom/cask
-install brew-cask
+install brew-cask 
 cask install biicode
 cask install boxcryptor-classic
 cask install clipmenu
@@ -28,7 +28,7 @@ tap puppetlabs/private-tap
 
 ## rcmdnk/file
 tap rcmdnk/file
-install brew-file
+install brew-file 
 
 # Other Homebrew packages
 install autoconf
@@ -36,6 +36,7 @@ install boost
 install boot2docker
 install cmake
 install coreutils
+install cowsay
 install cscope
 install docker
 install doxygen
@@ -62,3 +63,11 @@ install wget
 install xz
 install yaml-cpp
 install zsh
+
+# App Store applications
+appstore LimeChat
+appstore Microsoft Remote Desktop
+appstore Moom
+appstore Pocket
+appstore Simplenote
+appstore Xcode
