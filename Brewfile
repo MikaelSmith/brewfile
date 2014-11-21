@@ -70,4 +70,5 @@ appstore Microsoft Remote Desktop
 appstore Moom
 appstore Pocket
 appstore Simplenote
+appstore Textual 5
 appstore Xcode
