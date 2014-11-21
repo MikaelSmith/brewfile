@@ -26,14 +26,11 @@ tap homebrew/versions
 ## puppetlabs/private-tap
 tap puppetlabs/private-tap
 
-## rcmdnk/file
-tap rcmdnk/file
-install brew-file 
-
 # Other Homebrew packages
 install autoconf
 install boost
 install boot2docker
+install rcmdnk/file/brew-file 
 install cmake
 install coreutils
 install cowsay
