@@ -1,8 +1,9 @@
+
 # tap repositories and their packages
 
 ## caskroom/cask
 tap caskroom/cask
-install brew-cask 
+install brew-cask
 cask install biicode
 cask install boxcryptor-classic
 cask install clipmenu
@@ -26,11 +27,14 @@ tap homebrew/versions
 ## puppetlabs/private-tap
 tap puppetlabs/private-tap
 
+## rcmdnk/file
+tap rcmdnk/file
+install brew-file
+
 # Other Homebrew packages
 install autoconf
 install boost
 install boot2docker
-install rcmdnk/file/brew-file 
 install cmake
 install coreutils
 install cowsay
