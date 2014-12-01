@@ -55,6 +55,7 @@ install p7zip
 install pcre
 install pkg-config
 install rbenv
+install readline
 install ruby-build
 install sloccount
 install squid
