@@ -57,6 +57,7 @@ install pkg-config
 install rbenv
 install readline
 install ruby-build
+install s3cmd
 install sloccount
 install squid
 install the_silver_searcher
