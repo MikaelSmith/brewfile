@@ -23,6 +23,7 @@ tap homebrew/binary
 
 ## homebrew/versions
 tap homebrew/versions
+install llvm35
 
 ## puppetlabs/private-tap
 tap puppetlabs/private-tap
@@ -38,13 +39,16 @@ install boot2docker
 install cmake
 install coreutils
 install cowsay
+install cppcheck
 install cscope
 install docker
 install doxygen
 install gdbm
 install git
+install gmp
 install icu4c
 install leiningen
+install libffi
 install libxml2
 install libyaml
 install mackup
@@ -54,11 +58,13 @@ install openssl
 install p7zip
 install pcre
 install pkg-config
+install python
 install rbenv
 install readline
 install ruby-build
 install s3cmd
 install sloccount
+install sqlite
 install squid
 install the_silver_searcher
 install tree
