@@ -23,7 +23,7 @@ tap homebrew/binary
 
 ## homebrew/versions
 tap homebrew/versions
-install llvm35
+install llvm35 --with-asan
 
 ## puppetlabs/private-tap
 tap puppetlabs/private-tap
@@ -34,6 +34,7 @@ install brew-file
 
 # Other Homebrew packages
 install autoconf
+install automake
 install boost
 install boot2docker
 install cmake
@@ -49,16 +50,19 @@ install gmp
 install icu4c
 install leiningen
 install libffi
+install libtool
 install libxml2
 install libyaml
 install mackup
 install macvim
 install md5sha1sum
+install node
 install openssl
 install p7zip
 install pcre
 install pkg-config
 install python
+install qpdf
 install rbenv
 install readline
 install ruby-build
@@ -68,6 +72,7 @@ install sqlite
 install squid
 install the_silver_searcher
 install tree
+install valgrind --HEAD
 install wget
 install xz
 install yaml-cpp
