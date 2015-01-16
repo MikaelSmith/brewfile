@@ -21,6 +21,10 @@ tap fnichol/dvm
 ## homebrew/binary
 tap homebrew/binary
 
+## homebrew/dupes
+tap homebrew/dupes
+install apple-gcc42
+
 ## homebrew/versions
 tap homebrew/versions
 install llvm35 --with-asan
@@ -42,6 +46,7 @@ install coreutils
 install cowsay
 install cppcheck
 install cscope
+install curl
 install docker
 install doxygen
 install gdbm
@@ -56,7 +61,7 @@ install libyaml
 install mackup
 install macvim
 install md5sha1sum
-install node
+install node --HEAD
 install openssl
 install p7zip
 install pcre
