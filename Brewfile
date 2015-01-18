@@ -10,6 +10,7 @@ cask install clipmenu
 cask install day-o
 cask install geektool
 cask install java
+cask install lighttable
 cask install teamviewer
 cask install tunnelblick
 cask install vagrant
@@ -53,6 +54,7 @@ install doxygen
 install gdbm
 install git
 install gmp
+install heroku-toolbelt
 install icu4c
 install leiningen
 install libffi
