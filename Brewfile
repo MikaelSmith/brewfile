@@ -27,6 +27,9 @@ tap homebrew/binary
 tap homebrew/dupes
 install apple-gcc42
 
+## homebrew/versions
+tap homebrew/versions
+
 ## puppetlabs/private-tap
 tap puppetlabs/private-tap
 
@@ -52,6 +55,7 @@ install git
 install gmp
 install heroku-toolbelt
 install icu4c
+install keybase
 install leiningen
 install libffi
 install libtool
@@ -60,7 +64,7 @@ install libyaml
 install mackup
 install macvim
 install md5sha1sum
-install node --HEAD
+install node
 install openssl
 install p7zip
 install pcre
