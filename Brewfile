@@ -27,10 +27,6 @@ tap homebrew/binary
 tap homebrew/dupes
 install apple-gcc42
 
-## homebrew/versions
-tap homebrew/versions
-install llvm35 --with-asan
-
 ## puppetlabs/private-tap
 tap puppetlabs/private-tap
 
@@ -61,7 +57,6 @@ install libffi
 install libtool
 install libxml2
 install libyaml
-install llvm
 install mackup
 install macvim
 install md5sha1sum
