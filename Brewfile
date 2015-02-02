@@ -47,9 +47,10 @@ install coreutils
 install cowsay
 install cppcheck
 install cscope
-install curl
+install curl --with-openssl
 install docker
 install doxygen
+install ec2-api-tools
 install gdbm
 install git
 install gmp
