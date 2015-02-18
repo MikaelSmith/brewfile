@@ -10,6 +10,7 @@ cask install clipmenu
 cask install day-o
 cask install geektool
 cask install java
+cask install kitematic
 cask install lighttable
 cask install teamviewer
 cask install tunnelblick
