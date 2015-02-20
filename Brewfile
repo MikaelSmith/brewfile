@@ -8,6 +8,7 @@ cask install biicode
 cask install boxcryptor-classic
 cask install clipmenu
 cask install day-o
+cask install firefox
 cask install geektool
 cask install java
 cask install kitematic
