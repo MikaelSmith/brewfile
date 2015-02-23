@@ -13,6 +13,8 @@ cask install geektool
 cask install java
 cask install kitematic
 cask install lighttable
+cask install osxfuse
+cask install sshfs
 cask install teamviewer
 cask install tunnelblick
 cask install vagrant
@@ -57,7 +59,9 @@ install gdbm
 install git
 install gmp
 install heroku-toolbelt
+install httpie
 install icu4c
+install jq
 install keybase
 install leiningen
 install libffi
