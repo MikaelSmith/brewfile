@@ -10,8 +10,8 @@ cask install clipmenu
 cask install day-o
 cask install firefox
 cask install geektool
+cask install google-chrome
 cask install java
-cask install kitematic
 cask install lighttable
 cask install osxfuse
 cask install sshfs
@@ -94,6 +94,7 @@ install yaml-cpp
 install zsh
 
 # App Store applications
+appstore autoping
 appstore LimeChat
 appstore Microsoft Remote Desktop
 appstore Moom
