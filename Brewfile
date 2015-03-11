@@ -56,6 +56,7 @@ install docker
 install doxygen
 install ec2-api-tools
 install gdbm
+install gist
 install git
 install gmp
 install heroku-toolbelt
@@ -101,4 +102,5 @@ appstore Moom
 appstore Pocket
 appstore Simplenote
 appstore Textual 5
+appstore Twitter
 appstore Xcode
