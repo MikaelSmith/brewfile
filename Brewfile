@@ -46,6 +46,7 @@ install brew-file
 install autoconf
 install automake
 install boost
+install boost-bcp
 install boot2docker
 install cmake
 install coreutils
