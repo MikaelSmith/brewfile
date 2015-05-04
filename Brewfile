@@ -19,6 +19,7 @@ cask install sshfs
 cask install teamviewer
 cask install tunnelblick
 cask install vagrant
+cask install visual-studio-code
 cask install vmware-fusion
 cask install xquartz
 
@@ -53,7 +54,7 @@ install coreutils
 install cowsay
 install cppcheck
 install cscope
-install curl --with-openssl --with-openssl
+install curl --with-openssl
 install docker
 install doxygen
 install ec2-api-tools
