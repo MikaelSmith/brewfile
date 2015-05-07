@@ -58,6 +58,7 @@ install curl --with-openssl
 install docker
 install doxygen
 install ec2-api-tools
+install fpp
 install gdbm
 install gist
 install git
