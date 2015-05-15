@@ -3,25 +3,25 @@
 
 ## caskroom/cask
 tap caskroom/cask
-install brew-cask
-cask install atom
-cask install biicode
-cask install boxcryptor-classic
-cask install clipmenu
-cask install day-o
-cask install firefox
-cask install geektool
-cask install google-chrome
-cask install java
-cask install lighttable
-cask install osxfuse
-cask install sshfs
-cask install teamviewer
-cask install tunnelblick
-cask install vagrant
-cask install visual-studio-code
-cask install vmware-fusion
-cask install xquartz
+brew brew-cask
+cask atom
+cask biicode
+cask boxcryptor-classic
+cask clipmenu
+cask day-o
+cask firefox
+cask geektool
+cask google-chrome
+cask java
+cask lighttable
+cask osxfuse
+cask sshfs
+cask teamviewer
+cask tunnelblick
+cask vagrant
+cask visual-studio-code
+cask vmware-fusion
+cask xquartz
 
 ## fnichol/dvm
 tap fnichol/dvm
@@ -31,7 +31,7 @@ tap homebrew/binary
 
 ## homebrew/dupes
 tap homebrew/dupes
-install apple-gcc42
+brew apple-gcc42
 
 ## homebrew/versions
 tap homebrew/versions
@@ -41,62 +41,62 @@ tap puppetlabs/private-tap
 
 ## rcmdnk/file
 tap rcmdnk/file
-install brew-file
+brew brew-file
 
 # Other Homebrew packages
-install autoconf
-install automake
-install boost
-install boost-bcp
-install boot2docker
-install cmake
-install coreutils
-install cowsay
-install cppcheck
-install cscope
-install curl --with-openssl
-install docker
-install doxygen
-install ec2-api-tools
-install fpp
-install gdbm
-install gist
-install git
-install gmp
-install heroku-toolbelt
-install httpie
-install icu4c
-install jq
-install keybase
-install leiningen
-install libffi
-install libtool
-install libxml2
-install libyaml
-install mackup
-install macvim
-install md5sha1sum
-install node
-install openssl
-install p7zip
-install pcre
-install pkg-config
-install python
-install qpdf
-install rbenv
-install readline
-install ruby-build
-install s3cmd
-install sloccount
-install sqlite
-install squid
-install the_silver_searcher
-install tree
-install valgrind --HEAD
-install wget
-install xz
-install yaml-cpp
-install zsh
+brew autoconf
+brew automake
+brew boost
+brew boost-bcp
+brew boot2docker
+brew cmake
+brew coreutils
+brew cowsay
+brew cppcheck
+brew cscope
+brew curl --with-openssl
+brew docker
+brew doxygen
+brew ec2-api-tools
+brew fpp
+brew gdbm
+brew gist
+brew git
+brew gmp
+brew heroku-toolbelt
+brew httpie
+brew icu4c
+brew jq
+brew keybase
+brew leiningen
+brew libffi
+brew libtool
+brew libxml2
+brew libyaml
+brew mackup
+brew macvim
+brew md5sha1sum
+brew node
+brew openssl
+brew p7zip
+brew pcre
+brew pkg-config
+brew python
+brew qpdf
+brew rbenv
+brew readline
+brew ruby-build
+brew s3cmd
+brew sloccount
+brew sqlite
+brew squid
+brew the_silver_searcher
+brew tree
+brew valgrind --HEAD
+brew wget
+brew xz
+brew yaml-cpp
+brew zsh
 
 # App Store applications
 appstore autoping
