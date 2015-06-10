@@ -45,6 +45,7 @@ tap rcmdnk/file
 brew brew-file
 
 # Other Homebrew packages
+brew augeas
 brew autoconf
 brew automake
 brew boost
