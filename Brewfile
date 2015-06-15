@@ -61,6 +61,7 @@ brew docker
 brew doxygen
 brew ec2-api-tools
 brew fpp
+brew gcutil
 brew gdbm
 brew gist
 brew git
@@ -70,6 +71,7 @@ brew httpie
 brew icu4c
 brew jq
 brew keybase
+brew keychain
 brew leiningen
 brew libffi
 brew libtool
