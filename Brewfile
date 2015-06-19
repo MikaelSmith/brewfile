@@ -56,7 +56,7 @@ brew coreutils
 brew cowsay
 brew cppcheck
 brew cscope
-brew curl --with-openssl
+brew curl --with-openssl --with-openssl
 brew docker
 brew doxygen
 brew ec2-api-tools
@@ -68,6 +68,7 @@ brew git
 brew gmp
 brew heroku-toolbelt
 brew httpie
+brew hub
 brew icu4c
 brew jq
 brew keybase
