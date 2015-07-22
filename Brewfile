@@ -22,7 +22,6 @@ cask sshfs
 cask teamviewer
 cask tunnelblick
 cask vagrant
-cask visual-studio-code
 cask vmware-fusion
 cask xquartz
 
