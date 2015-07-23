@@ -8,7 +8,6 @@ cask atom
 cask biicode
 cask box-sync
 cask boxcryptor-classic
-cask chromium
 cask clipmenu
 cask controlplane
 cask day-o
