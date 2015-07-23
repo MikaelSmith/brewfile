@@ -23,6 +23,7 @@ cask teamviewer
 cask tunnelblick
 cask vagrant
 cask vmware-fusion
+cask wireshark
 cask xquartz
 
 ## fnichol/dvm
@@ -100,7 +101,6 @@ brew the_silver_searcher
 brew tree
 brew valgrind --HEAD
 brew wget
-brew wireshark
 brew xz
 brew yaml-cpp
 brew zsh
