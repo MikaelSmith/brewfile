@@ -11,7 +11,6 @@ cask boxcryptor-classic
 cask clipmenu
 cask controlplane
 cask day-o
-cask firefox
 cask geektool
 cask google-chrome
 cask java
