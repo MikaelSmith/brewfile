@@ -40,6 +40,7 @@ tap homebrew/versions
 
 ## puppetlabs/private-tap
 tap puppetlabs/private-tap
+brew vmpool --HEAD
 
 ## rcmdnk/file
 tap rcmdnk/file
@@ -67,6 +68,7 @@ brew gdbm
 brew gist
 brew git
 brew gmp
+brew go
 brew heroku-toolbelt
 brew httpie
 brew hub
