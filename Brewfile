@@ -7,7 +7,6 @@ brew brew-cask
 cask atom
 cask biicode
 cask box-sync
-cask boxcryptor-classic
 cask clipmenu
 cask controlplane
 cask day-o
@@ -105,6 +104,11 @@ brew wget
 brew xz
 brew yaml-cpp
 brew zsh
+
+# Below applications were installed by Cask,
+# but do not have corresponding casks.
+
+#cask boxcryptor-classic (!)
 
 # App Store applications
 appstore autoping
