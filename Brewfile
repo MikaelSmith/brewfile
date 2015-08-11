@@ -37,6 +37,10 @@ brew apple-gcc42
 ## homebrew/versions
 tap homebrew/versions
 
+## jasonmp85/iwyu
+tap jasonmp85/iwyu
+brew iwyu
+
 ## puppetlabs/private-tap
 tap puppetlabs/private-tap
 brew vmpool --HEAD
