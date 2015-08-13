@@ -61,7 +61,7 @@ brew coreutils
 brew cowsay
 brew cppcheck
 brew cscope
-brew curl --with-openssl --with-openssl
+brew curl --with-openssl
 brew docker
 brew doxygen
 brew ec2-api-tools
