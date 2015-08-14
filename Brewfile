@@ -16,6 +16,7 @@ cask java
 cask lighttable
 cask macvim
 cask osxfuse
+cask slack
 cask sshfs
 cask teamviewer
 cask tunnelblick
