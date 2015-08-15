@@ -10,6 +10,7 @@ cask box-sync
 cask clipmenu
 cask controlplane
 cask day-o
+cask dockertoolbox
 cask geektool
 cask google-chrome
 cask java
@@ -21,6 +22,7 @@ cask sshfs
 cask teamviewer
 cask tunnelblick
 cask vagrant
+cask virtualbox
 cask vmware-fusion
 cask wireshark
 cask xquartz
@@ -56,7 +58,6 @@ brew autoconf
 brew automake
 brew boost
 brew boost-bcp
-brew boot2docker
 brew cmake
 brew coreutils
 brew cowsay
