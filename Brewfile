@@ -48,6 +48,10 @@ brew iwyu
 tap puppetlabs/private-tap
 brew vmpool --HEAD
 
+## railwaycat/emacsmacport
+tap railwaycat/emacsmacport
+brew emacs-mac --with-spacemacs-icon
+
 ## rcmdnk/file
 tap rcmdnk/file
 brew brew-file
@@ -90,6 +94,7 @@ brew mackup
 brew macvim
 brew md5sha1sum
 brew node
+brew oniguruma
 brew openssl
 brew p7zip
 brew pcre
