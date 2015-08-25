@@ -4,7 +4,6 @@
 ## caskroom/cask
 tap caskroom/cask
 brew brew-cask
-cask atom
 cask biicode
 cask box-sync
 cask clipmenu
