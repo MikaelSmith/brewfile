@@ -49,7 +49,7 @@ brew vmpool --HEAD
 
 ## railwaycat/emacsmacport
 tap railwaycat/emacsmacport
-brew emacs-mac --with-spacemacs-icon
+brew emacs-mac --with-spacemacs-icon --with-spacemacs-icon
 
 ## rcmdnk/file
 tap rcmdnk/file
@@ -66,7 +66,7 @@ brew coreutils
 brew cowsay
 brew cppcheck
 brew cscope
-brew curl --with-openssl
+brew curl --with-openssl --with-openssl
 brew docker
 brew doxygen
 brew ec2-api-tools
