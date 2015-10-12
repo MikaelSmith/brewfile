@@ -23,7 +23,6 @@ cask teamviewer
 cask tunnelblick
 cask vagrant
 cask virtualbox
-cask vmware-fusion
 cask wireshark
 cask xquartz
 
