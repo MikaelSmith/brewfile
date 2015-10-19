@@ -59,8 +59,10 @@ brew brew-file
 brew augeas
 brew autoconf
 brew automake
+brew awscli
 brew boost
 brew boost-bcp
+brew clang-format
 brew cmake
 brew coreutils
 brew cowsay
