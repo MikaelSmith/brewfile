@@ -36,6 +36,10 @@ tap homebrew/binary
 tap homebrew/dupes
 brew apple-gcc42
 
+## homebrew/fuse
+tap homebrew/fuse
+brew encfs
+
 ## homebrew/versions
 tap homebrew/versions
 
@@ -69,12 +73,12 @@ brew cowsay
 brew cppcheck
 brew cscope
 brew curl --with-openssl
-brew docker
 brew doxygen
 brew ec2-api-tools
 brew fpp
 brew gcutil
 brew gdbm
+brew gettext
 brew gist
 brew git
 brew git-lfs
@@ -117,11 +121,6 @@ brew wget
 brew xz
 brew yaml-cpp
 brew zsh
-
-# Below applications were installed by Cask,
-# but do not have corresponding casks.
-
-#cask boxcryptor-classic (!)
 
 # App Store applications
 appstore autoping
