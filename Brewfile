@@ -49,7 +49,7 @@ brew iwyu
 
 ## puppetlabs/private-tap
 tap puppetlabs/private-tap
-brew vmpool --HEAD
+brew vmpool
 
 ## railwaycat/emacsmacport
 tap railwaycat/emacsmacport
@@ -116,7 +116,7 @@ brew sqlite
 brew squid
 brew the_silver_searcher
 brew tree
-brew valgrind --HEAD
+brew valgrind
 brew wget
 brew xz
 brew yaml-cpp
