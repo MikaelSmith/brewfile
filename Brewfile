@@ -109,6 +109,7 @@ brew python
 brew qpdf
 brew rbenv
 brew readline
+brew rlog
 brew ruby-build
 brew s3cmd
 brew sloccount
