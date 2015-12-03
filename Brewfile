@@ -18,6 +18,7 @@ cask lighttable
 cask macvim
 cask osxfuse
 cask slack
+cask soundflower
 cask sshfs
 cask teamviewer
 cask tunnelblick
@@ -72,7 +73,7 @@ brew coreutils
 brew cowsay
 brew cppcheck
 brew cscope
-brew curl --with-openssl
+brew curl --with-openssl --with-openssl
 brew doxygen
 brew ec2-api-tools
 brew fpp
