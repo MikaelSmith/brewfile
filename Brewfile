@@ -54,7 +54,7 @@ brew vmpool
 
 ## railwaycat/emacsmacport
 tap railwaycat/emacsmacport
-brew emacs-mac --with-spacemacs-icon
+brew emacs-mac --with-spacemacs-icon --with-spacemacs-icon
 
 ## rcmdnk/file
 tap rcmdnk/file
